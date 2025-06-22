@@ -109,7 +109,7 @@ nav .btn button:hover {
 /* ================================Nav End===================================== */
 
 #banner_part {
-	background: url("../pic/banner...png");
+	background: url("../image/banner...png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -534,7 +534,7 @@ nav .btn button:hover {
 /* ================================Service End===================================== */
 
 #video_part {
-	background: url(../pic/banner2\ 1.jpg);
+	background: url(../image/banner2\ 1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
