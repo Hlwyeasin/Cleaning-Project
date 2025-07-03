@@ -951,6 +951,8 @@ nav .btn button:hover {
 
 footer{
 	padding-top: 63px;
+	background-color: black;
+	
 }
 footer .container .left{
 	gap: 112px;
@@ -1026,7 +1028,7 @@ footer .copy .container p{
 
 }
 footer .copy .container a{
-	color: #515854;
+	color: gray;
   font-size: 14px;
   line-height: 22px
 }
